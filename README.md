@@ -13,4 +13,3 @@ This repo contains the GitHub actions which regularly (weekly) run the automatic
  * Workflow repos (run monthly): [IWC](https://github.com/galaxyproject/iwc)
 ## See also
  * [Planemo](https://github.com/galaxyproject/planemo)
-
